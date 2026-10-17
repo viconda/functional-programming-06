@@ -1,0 +1,16 @@
+{
+  "id": "E13",
+  "title": "Неизменяемое двоичное дерево",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E13"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:53+05:00",
+  "elapsed": 0.11764859990216792,
+  "exit_code": 0,
+  "stdout": "\nE13. Неизменяемое двоичное дерево\ninorder(t1) = [20, 30, 40, 50, 60, 70, 80]\ninorder(t2) = [20, 30, 40, 50, 60, 65, 70, 80]\nheight(t2) = 4\ncontains(t2,65), contains(t1,65) = True False\nt2.left is t1.left: True\nПовторная вставка 65 сохраняет содержимое: True\nПроверки секции: OK\n",
+  "stderr": ""
+}

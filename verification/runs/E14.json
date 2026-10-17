@@ -1,0 +1,16 @@
+{
+  "id": "E14",
+  "title": "Обход JSON-документа",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E14"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:54+05:00",
+  "elapsed": 0.08665700000710785,
+  "exit_code": 0,
+  "stdout": "\nE14. Обход JSON-документа\nfind_values(university, 'staff') = [40, 25, 30]\nsum = 95\nНеизвестный ключ: []\nСкалярный вход: []\nПроверки секции: OK\n",
+  "stderr": ""
+}

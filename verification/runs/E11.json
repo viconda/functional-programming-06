@@ -1,0 +1,16 @@
+{
+  "id": "E11",
+  "title": "Обработка списка: голова и хвост",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E11"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:51+05:00",
+  "elapsed": 0.0810818001627922,
+  "exit_code": 0,
+  "stdout": "\nE11. Обработка списка: голова и хвост\nnums = [1, 2, 3, 4, 5, 6]\nlength = 6\nmy_map(x * 10) = [10, 20, 30, 40, 50, 60]\nmy_filter(x % 2) = [1, 3, 5]\nfold_left(sum) = 21\nfold_left(subtract, 0, [1,2,3]) = -6\nПустые входы: length=0, fold_left возвращает исходный аккумулятор\nПроверки секции: OK\n",
+  "stderr": ""
+}

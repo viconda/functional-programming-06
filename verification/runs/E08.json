@@ -1,0 +1,16 @@
+{
+  "id": "E08",
+  "title": "Бинарный поиск",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E08"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:49+05:00",
+  "elapsed": 0.12899670004844666,
+  "exit_code": 0,
+  "stdout": "\nE08. Бинарный поиск\ndata = tuple(range(0, 100, 3))\nbinary_search(data, 42) = 14\nbinary_search(data, 43) = -1\nbinary_search(data, 0) = 0\nbinary_search(data, 99) = 33\nbinary_search(data, 100) = -1\nbinary_search((), 1) = -1\nПроверки секции: OK\n",
+  "stderr": ""
+}

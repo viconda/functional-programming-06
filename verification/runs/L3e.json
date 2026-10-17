@@ -1,0 +1,16 @@
+{
+  "id": "L3e",
+  "title": "Задание 3.5. k-й наименьший ключ",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_trees.py",
+    "--section",
+    "L3e"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:44+05:00",
+  "elapsed": 0.09059610008262098,
+  "exit_code": 0,
+  "stdout": "kth_smallest(k=1): 20\nkth_smallest(k=4): 40\nkth_smallest(k=8): 80\nk=0: IndexError: k должен быть положительным\nk=9: IndexError: k превышает число ключей\n",
+  "stderr": ""
+}

@@ -1,0 +1,16 @@
+{
+  "id": "S03",
+  "title": "СРС 3. Рекурсивный разбор условия",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "S03"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:58+05:00",
+  "elapsed": 0.3210434999782592,
+  "exit_code": 0,
+  "stdout": "\nS03. СРС 3. Рекурсивный разбор условия\nУсловие: ('and', ('gt', 'age', 18), ('eq', 'city', 'Алматы'))\nВыбраны: ['Швачкина Виктория', 'Мария']\nВложенное or/not: [2, 3]\nОшибочный оператор: ValueError unknown operator: unknown\nПроверки секции: OK\n",
+  "stderr": ""
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E06",
+  "title": "Алгоритм Евклида",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E06"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:48+05:00",
+  "elapsed": 0.09507480007596314,
+  "exit_code": 0,
+  "stdout": "\nE06. Алгоритм Евклида\ngcd(1071, 462) = 21\ngcd(17, 5) = 1\ngcd(-18, 24) = 6\ngcd(0, 0) = 0\ngcd(0, 9) = 9\nПроверки секции: OK\n",
+  "stderr": ""
+}

@@ -1,0 +1,16 @@
+{
+  "id": "E10",
+  "title": "Быстрая сортировка",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E10"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:51+05:00",
+  "elapsed": 0.08806370012462139,
+  "exit_code": 0,
+  "stdout": "\nE10. Быстрая сортировка\n[5, 3, 8, 1, 9, 2, 7] -> [1, 2, 3, 5, 7, 8, 9]\n[] -> []\n[2, 2, 1] -> [1, 2, 2]\n[1, 2, 3] -> [1, 2, 3]\nСортировка и неизменность всех входов: OK\nПроверки секции: OK\n",
+  "stderr": ""
+}

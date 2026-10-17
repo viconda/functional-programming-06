@@ -1,0 +1,16 @@
+{
+  "id": "L1c",
+  "title": "Задание 1.3. Подмассив с максимальной суммой",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_algorithms.py",
+    "--section",
+    "L1c"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:02+05:00",
+  "elapsed": 1.0049933998379856,
+  "exit_code": 0,
+  "stdout": "[L1c] Задание 1.3. Подмассив с максимальной суммой\nИсходный список: [-2, 1, -3, 4, -1, 2, 1, -5, 4]\nРазделяй и властвуй: Subarray(total=6, start=3, stop=7)\nКадане через reduce: Subarray(total=6, start=3, stop=7)\nПодмассив: [4, -1, 2, 1]\nИндексы с нуля, правая граница исключена.\nВсе отрицательные: Subarray(total=-2, start=1, stop=2)\n10 000 чисел; seed=611; медиана 5 запусков:\nDC: 147.305 мс; reduce: 20.124 мс\nРезультаты и индексы совпадают: True\nИсходные данные сохранены: True\n\n",
+  "stderr": ""
+}

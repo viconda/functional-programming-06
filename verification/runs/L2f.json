@@ -1,0 +1,16 @@
+{
+  "id": "L2f",
+  "title": "Задание 2.6. Чтение и неизменяющая запись по пути",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_algorithms.py",
+    "--section",
+    "L2f"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:11+05:00",
+  "elapsed": 0.13024710002355278,
+  "exit_code": 0,
+  "stdout": "[L2f] Задание 2.6. Чтение и неизменяющая запись по пути\nИсточник: data/nested.json\nПуть: ('department', 'staff', 0, 'projects', 0, 'metrics', 'hours', 1)\nget_path исходной версии: 6\nget_path новой версии: 12\nИсходная версия после set_path: 6\nКорни различаются: True\nИзменённая ветвь скопирована: True\nНеизменённый сотрудник разделяется: True\nВесь исходный JSON сохранён: True\nПустой путь заменяет корень: {'new': 1}\nОтсутствующий ключ: ожидаемый KeyError\n\n",
+  "stderr": ""
+}

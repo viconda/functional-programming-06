@@ -1,0 +1,16 @@
+{
+  "id": "L3d",
+  "title": "Задание 3.4. Запрос диапазона",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_trees.py",
+    "--section",
+    "L3d"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:43+05:00",
+  "elapsed": 0.14818080002442002,
+  "exit_code": 0,
+  "stdout": "range_query(35, 65): [35, 40, 50, 60]\nrange_query(40, 40): [40]\nrange_query(81, 100): []\nrange_query(80, 20): []\n",
+  "stderr": ""
+}

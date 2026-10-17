@@ -1,0 +1,16 @@
+{
+  "id": "L2d",
+  "title": "Задание 2.4. Сумма чисел deep_sum",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_algorithms.py",
+    "--section",
+    "L2d"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:09+05:00",
+  "elapsed": 0.11015770002268255,
+  "exit_code": 0,
+  "stdout": "[L2d] Задание 2.4. Сумма чисел deep_sum\nИсточник: data/nested.json\nЧисла: age 31 и 28, часы 4 + 6 + 8, рейтинг 4.5, семестр 6.\ndeep_sum(doc) = 87.5\nРучная проверка = 87.5\nTrue/False исключены из суммы, несмотря на bool subclass int.\n[1, '2', True, None, (3.5,)]: 4.5\nПустая структура: 0\n\n",
+  "stderr": ""
+}

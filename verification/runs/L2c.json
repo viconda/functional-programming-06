@@ -1,0 +1,16 @@
+{
+  "id": "L2c",
+  "title": "Задание 2.3. Преобразование deep_map",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_algorithms.py",
+    "--section",
+    "L2c"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:09+05:00",
+  "elapsed": 0.114541299873963,
+  "exit_code": 0,
+  "stdout": "[L2c] Задание 2.3. Преобразование deep_map\nИсточник: data/nested.json; каждый числовой атом умножен на 2.\nmetrics до: {'hours': [4, 6, 8], 'rating': 4.5}\nmetrics после: {'hours': [8, 12, 16], 'rating': 9.0}\nsemester: 6 -> 12\nСтроки и bool сохранены: Алия True\nОтдельная проверка кортежа: [2, (4, {'x': 6})]\nТип вложенного кортежа: tuple\nИсходный JSON сохранён: True\n\n",
+  "stderr": ""
+}

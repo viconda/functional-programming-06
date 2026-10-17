@@ -1,0 +1,16 @@
+{
+  "id": "E12",
+  "title": "Вложенные списки",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E12"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:52+05:00",
+  "elapsed": 0.08438910008408129,
+  "exit_code": 0,
+  "stdout": "\nE12. Вложенные списки\nВход: [1, [2, [3, [4, 5]], 6], [[7]], 8]\nflatten = [1, 2, 3, 4, 5, 6, 7, 8]\nnested_depth = 4\nflatten([[], (1, (2,))]) = [1, 2]\nГлубины числа 7, [], [[]]: [0, 1, 2]\nПроверки секции: OK\n",
+  "stderr": ""
+}

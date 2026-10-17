@@ -1,0 +1,16 @@
+{
+  "id": "L5d",
+  "title": "Задание 5.4. Дерево каталогов с отступами",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_trees.py",
+    "--section",
+    "L5d"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:48+05:00",
+  "elapsed": 0.10454680002294481,
+  "exit_code": 0,
+  "stdout": "project/\n  README.md (1200 байт)\n  LICENSE (500 байт)\n  src/\n    main.py (2400 байт)\n    utils/\n      helpers.PY (1600 байт)\n  data/\n    people.json (3000 байт)\n    scores.csv (1800 байт)\n    empty.txt (0 байт)\n  docs/\n    report.pdf (8500 байт)\n    notes.md (700 байт)\n  empty/\n",
+  "stderr": ""
+}

@@ -1,0 +1,16 @@
+{
+  "id": "L7",
+  "title": "Дополнительное задание. Неизменяемое АВЛ-дерево",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_trees.py",
+    "--section",
+    "L7"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:52+05:00",
+  "elapsed": 0.5866906999144703,
+  "exit_code": 0,
+  "stdout": "LL: корень=2, обход=[1, 2, 3], AVL=True\nRR: корень=2, обход=[1, 2, 3], AVL=True\nLR: корень=2, обход=[1, 2, 3], AVL=True\nRL: корень=2, обход=[1, 2, 3], AVL=True\nAVL: n=1000, h=10, log2(n+1)=9.967, секунд=0.012038, AVL=True\nAVL: n=10000, h=14, log2(n+1)=13.288, секунд=0.141169, AVL=True\nВставка 10000: новых сохранённых узлов=15, общих узлов=9986\nСтарая версия содержит 10000 ключей; новая 10001\nОбычный BST: n=1000, h=1000, секунд=0.307463, BST=True\nДля обычного BST сравнение ограничено n=1000; вставка итеративная.\n",
+  "stderr": ""
+}

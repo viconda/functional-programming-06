@@ -1,0 +1,16 @@
+{
+  "id": "L3b",
+  "title": "Задание 3.2. Построение from_sorted",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_trees.py",
+    "--section",
+    "L3b"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:41+05:00",
+  "elapsed": 0.10256809997372329,
+  "exit_code": 0,
+  "stdout": "Вход: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]\nОбход по уровням: [8, 4, 12, 2, 6, 10, 14, 1, 3, 5, 7, 9, 11, 13, 15]\nВысота: 4 ; корень: 8\nИсходный список сохранился: True\n",
+  "stderr": ""
+}

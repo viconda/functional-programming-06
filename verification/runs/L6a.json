@@ -1,0 +1,16 @@
+{
+  "id": "L6a",
+  "title": "Вариант 3.1. Предки до n-го поколения",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_trees.py",
+    "--section",
+    "L6a"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:49+05:00",
+  "elapsed": 0.11687869997695088,
+  "exit_code": 0,
+  "stdout": "Предки Елены до 3-го поколения:\nПоколение 1: Анна, Сергей\nПоколение 2: Ирина, Мария, Олег, Павел\nПоколение 3: Алексей, Нина\nНулевое число поколений: ()\nУ Петра нет известных родителей: ()\n",
+  "stderr": ""
+}

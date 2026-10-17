@@ -1,0 +1,16 @@
+{
+  "id": "L2e",
+  "title": "Задание 2.5. Генератор путей paths",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_algorithms.py",
+    "--section",
+    "L2e"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:10+05:00",
+  "elapsed": 0.0948797999881208,
+  "exit_code": 0,
+  "stdout": "[L2e] Задание 2.5. Генератор путей paths\nИсточник: data/nested.json; paths(doc):\n('university',) = 'Satbayev University'\n('department', 'name') = 'Программная инженерия'\n('department', 'staff', 0, 'name') = 'Алия'\n('department', 'staff', 0, 'age') = 31\n('department', 'staff', 0, 'active') = True\n('department', 'staff', 0, 'projects', 0, 'title') = 'Рекурсия'\n('department', 'staff', 0, 'projects', 0, 'metrics', 'hours', 0) = 4\n('department', 'staff', 0, 'projects', 0, 'metrics', 'hours', 1) = 6\n('department', 'staff', 0, 'projects', 0, 'metrics', 'hours', 2) = 8\n('department', 'staff', 0, 'projects', 0, 'metrics', 'rating') = 4.5\n('department', 'staff', 1, 'name') = 'Данияр'\n('department', 'staff', 1, 'age') = 28\n('department', 'staff', 1, 'active') = False\n('department', 'staff', 1, 'projects') = []\n('department', 'room') = None\n('semester',) = 6\nЧисло листьев, включая пустой список projects: 16\nКаждый путь проверен get_path: True\n\n",
+  "stderr": ""
+}

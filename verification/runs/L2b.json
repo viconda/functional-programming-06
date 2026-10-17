@@ -1,0 +1,16 @@
+{
+  "id": "L2b",
+  "title": "Задание 2.2. Максимальная глубина deep_depth",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_algorithms.py",
+    "--section",
+    "L2b"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:08+05:00",
+  "elapsed": 0.10441220016218722,
+  "exit_code": 0,
+  "stdout": "[L2b] Задание 2.2. Максимальная глубина deep_depth\nИсточник: data/nested.json\nАтом имеет глубину 0; контейнер добавляет 1.\nПустой список: 1\nАтом 17: 0\n[1, [2, [3]]]: 3\nГлубина JSON-документа: 8\nСамая глубокая ветвь:\nroot / department / staff / [0] / projects / [0] / metrics / hours\nУсловие не менее четырёх уровней: True\n\n",
+  "stderr": ""
+}

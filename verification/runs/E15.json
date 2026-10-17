@@ -1,0 +1,16 @@
+{
+  "id": "E15",
+  "title": "Перебор с возвратом",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E15"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:54+05:00",
+  "elapsed": 0.10654459986835718,
+  "exit_code": 0,
+  "stdout": "\nE15. Перебор с возвратом\npermutations([1, 2, 3]):\n[1, 2, 3]\n[1, 3, 2]\n[2, 1, 3]\n[2, 3, 1]\n[3, 1, 2]\n[3, 2, 1]\nsubsets(['a', 'b', 'c']):\n[[], ['c'], ['b'], ['b', 'c'], ['a'], ['a', 'c'], ['a', 'b'], ['a', 'b', 'c']]\nqueens(6): 4 решения; первое: (1, 3, 5, 0, 2, 4)\nqueens(8): 92 решения\nqueens(0), queens(2), queens(3): [()] [] []\nПроверки секции: OK\n",
+  "stderr": ""
+}

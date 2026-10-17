@@ -1,0 +1,16 @@
+{
+  "id": "L5a",
+  "title": "Задание 5.1. Общий размер каталога",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_trees.py",
+    "--section",
+    "L5a"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:46+05:00",
+  "elapsed": 0.1023331000469625,
+  "exit_code": 0,
+  "stdout": "Общий размер /project: 19700 байт\nПустой каталог: 0 байт\nРазмеры файлов: [1200, 500, 2400, 1600, 3000, 1800, 0, 8500, 700]\n",
+  "stderr": ""
+}

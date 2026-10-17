@@ -1,0 +1,16 @@
+{
+  "id": "E04",
+  "title": "Виды рекурсии",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E04"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:46+05:00",
+  "elapsed": 0.0800872000399977,
+  "exit_code": 0,
+  "stdout": "\nE04. Виды рекурсии\nfib(10) = 55\nis_even(10) = True\nis_odd(7) = True\nfactorial_acc(10) = 3628800\nackermann(2, 3) = 9\nНулевые входы взаимной рекурсии: OK\nПроверки секции: OK\n",
+  "stderr": ""
+}

@@ -1,0 +1,16 @@
+{
+  "id": "L1d",
+  "title": "Задание 1.4. Измерение времени сортировок",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_algorithms.py",
+    "--section",
+    "L1d"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:54:03+05:00",
+  "elapsed": 3.074787699850276,
+  "exit_code": 0,
+  "stdout": "[L1d] Задание 1.4. Измерение времени сортировок\nPython 3.12.14 ; Windows-11-10.0.26100-SP0\nЦелые числа [-1 000 000; 1 000 000]; seed=606+n\nНа алгоритм 5 реальных запусков; медиана, миллисекунды.\nГенерация данных и проверка результата вне измеряемого участка.\n       n | merge_sort | quick_sort |   sorted | Проверка\n    1000 |      1.390 |      1.134 |    0.031 | PASS\n   10000 |     20.446 |     15.535 |    0.987 | PASS\n  100000 |    236.190 |    220.741 |   15.436 | PASS\nВсе результаты равны sorted; входные списки не изменились.\n\n",
+  "stderr": ""
+}

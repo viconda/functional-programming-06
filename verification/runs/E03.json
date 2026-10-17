@@ -1,0 +1,16 @@
+{
+  "id": "E03",
+  "title": "Ограничение глубины рекурсии",
+  "command": [
+    "C:\\Users\\shvac\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+    "demo_lecture.py",
+    "--section",
+    "E03"
+  ],
+  "cwd": "C:\\Users\\shvac\\.codex\\visualizations\\2026\\10\\17\\01a14b25-cd3b-7133-8e39-d8f7cd04de83\\Рекурсия_06",
+  "started": "2026-10-17T23:53:45+05:00",
+  "elapsed": 0.08505679992958903,
+  "exit_code": 0,
+  "stdout": "\nE03. Ограничение глубины рекурсии\nsys.getrecursionlimit() = 1000\nRecursionError: maximum recursion depth exceeded\ndepth(10) = 10\nПроверки секции: OK\n",
+  "stderr": ""
+}
