@@ -1,0 +1,97 @@
+test_combinations (test_algorithms.BacktrackingTests.test_combinations)
+All sizes agree with the binomial formula, including k=0 and k>n. ... ok
+test_maze_unreachable_and_invalid (test_algorithms.BacktrackingTests.test_maze_unreachable_and_invalid)
+Closed exits return None; malformed mazes fail explicitly. ... ok
+test_maze_valid_path (test_algorithms.BacktrackingTests.test_maze_valid_path)
+A returned path joins S and E with adjacent passable unique cells. ... ok
+test_permutations (test_algorithms.BacktrackingTests.test_permutations)
+Positional permutations have factorial size and expected contents. ... ok
+test_queens_known_counts (test_algorithms.BacktrackingTests.test_queens_known_counts)
+Early pruning and leaf-only checks produce the same known counts. ... ok
+test_subset_sum_random_exhaustive (test_algorithms.BacktrackingTests.test_subset_sum_random_exhaustive)
+Signed subsets match an independent binary-mask enumeration. ... ok
+test_subset_sum_special_cases (test_algorithms.BacktrackingTests.test_subset_sum_special_cases)
+Do not cut signed sums early or omit zero extensions of solutions. ... ok
+test_inversions_100_random (test_algorithms.DivideConquerTests.test_inversions_100_random)
+The O(n log n) counter agrees with the O(n²) definition. ... ok
+test_inversions_boundaries (test_algorithms.DivideConquerTests.test_inversions_boundaries)
+Equal values are not inversions; descending lists have n(n-1)/2. ... ok
+test_sort_boundaries (test_algorithms.DivideConquerTests.test_sort_boundaries)
+Empty, duplicate, ascending, descending and text inputs work. ... ok
+test_sorts_random_and_unchanged (test_algorithms.DivideConquerTests.test_sorts_random_and_unchanged)
+Both sorts match Python on 100 deterministic random inputs. ... ok
+test_subarray_against_exhaustive (test_algorithms.DivideConquerTests.test_subarray_against_exhaustive)
+Both algorithms match all-interval search, including equal sums. ... ok
+test_subarray_empty_and_negative (test_algorithms.DivideConquerTests.test_subarray_empty_and_negative)
+Empty inputs fail explicitly and all-negative inputs stay nonempty. ... ok
+test_flatten_depth_sum (test_algorithms.NestedTests.test_flatten_depth_sum)
+Atoms, empty containers, bools and heterogeneous structures work. ... ok
+test_json_paths_and_copy (test_algorithms.NestedTests.test_json_paths_and_copy)
+Every generated leaf path can be read and set without mutation. ... ok
+test_map_preserves_types (test_algorithms.NestedTests.test_map_preserves_types)
+Mapping values preserves keys, list/tuple kinds and input data. ... ok
+test_path_errors (test_algorithms.NestedTests.test_path_errors)
+Missing keys, bad indices and attempts to traverse atoms fail. ... ok
+test_paths_empty_and_tuple (test_algorithms.NestedTests.test_paths_empty_and_tuple)
+Empty collections are leaves and tuple replacement stays tuple. ... ok
+test_boolean_short_circuit (test_lecture.DatabaseTests.test_boolean_short_circuit) ... ok
+test_empty_relational_operations (test_lecture.DatabaseTests.test_empty_relational_operations) ... ok
+test_group_by_averages_counts_and_order (test_lecture.DatabaseTests.test_group_by_averages_counts_and_order) ... ok
+test_group_by_fresh_nan_callable_preserves_every_row (test_lecture.DatabaseTests.test_group_by_fresh_nan_callable_preserves_every_row) ... ok
+test_group_by_nan_keys_keep_nonempty_groups (test_lecture.DatabaseTests.test_group_by_nan_keys_keep_nonempty_groups) ... ok
+test_insert_update_delete_preserve_old_versions (test_lecture.DatabaseTests.test_insert_update_delete_preserve_old_versions) ... ok
+test_integrated_student_grade_query (test_lecture.DatabaseTests.test_integrated_student_grade_query) ... ok
+test_invalid_schema_and_mutable_cells (test_lecture.DatabaseTests.test_invalid_schema_and_mutable_cells) ... ok
+test_join_preserves_many_to_many_matches (test_lecture.DatabaseTests.test_join_preserves_many_to_many_matches) ... ok
+test_predicate_compilation_and_nested_boolean_operators (test_lecture.DatabaseTests.test_predicate_compilation_and_nested_boolean_operators) ... ok
+test_predicate_rejects_malformed_ast (test_lecture.DatabaseTests.test_predicate_rejects_malformed_ast) ... ok
+test_projection_field_order_is_part_of_schema (test_lecture.DatabaseTests.test_projection_field_order_is_part_of_schema) ... ok
+test_select_project_and_order (test_lecture.DatabaseTests.test_select_project_and_order) ... ok
+test_separate_projections_share_a_structural_schema (test_lecture.DatabaseTests.test_separate_projections_share_a_structural_schema) ... ok
+test_all_queen_solutions_are_valid_and_unique (test_lecture.ExampleTests.test_all_queen_solutions_are_valid_and_unique) ... ok
+test_binary_search_against_membership (test_lecture.ExampleTests.test_binary_search_against_membership) ... ok
+test_factorial_against_standard_library (test_lecture.ExampleTests.test_factorial_against_standard_library) ... ok
+test_fast_pow_against_builtin (test_lecture.ExampleTests.test_fast_pow_against_builtin) ... ok
+test_fibonacci_counts_against_closed_identity (test_lecture.ExampleTests.test_fibonacci_counts_against_closed_identity) ... ok
+test_find_values_at_multiple_levels (test_lecture.ExampleTests.test_find_values_at_multiple_levels) ... ok
+test_flatten_depth_and_input_immutability (test_lecture.ExampleTests.test_flatten_depth_and_input_immutability) ... ok
+test_gcd_against_standard_library (test_lecture.ExampleTests.test_gcd_against_standard_library) ... ok
+test_hanoi_rejects_invalid_input (test_lecture.ExampleTests.test_hanoi_rejects_invalid_input) ... ok
+test_hanoi_simulates_legal_moves (test_lecture.ExampleTests.test_hanoi_simulates_legal_moves) ... ok
+test_head_tail_operations (test_lecture.ExampleTests.test_head_tail_operations) ... ok
+test_invalid_natural_arguments (test_lecture.ExampleTests.test_invalid_natural_arguments) ... ok
+test_merge_and_no_alias_at_base_case (test_lecture.ExampleTests.test_merge_and_no_alias_at_base_case) ... ok
+test_mutual_and_nested_recursion (test_lecture.ExampleTests.test_mutual_and_nested_recursion) ... ok
+test_permutations_against_itertools (test_lecture.ExampleTests.test_permutations_against_itertools) ... ok
+test_persistent_bst_versions_and_sharing (test_lecture.ExampleTests.test_persistent_bst_versions_and_sharing) ... ok
+test_recursion_limit_is_observed_without_changing_it (test_lecture.ExampleTests.test_recursion_limit_is_observed_without_changing_it) ... ok
+test_sorts_against_builtin_and_preserve_inputs (test_lecture.ExampleTests.test_sorts_against_builtin_and_preserve_inputs) ... ok
+test_subsets_against_combinations (test_lecture.ExampleTests.test_subsets_against_combinations) ... ok
+test_trace_contains_calls_and_returns (test_lecture.ExampleTests.test_trace_contains_calls_and_returns) ... ok
+test_10000_ascending (test_trees.AvlTests.test_10000_ascending) ... ok
+test_four_rotations (test_trees.AvlTests.test_four_rotations) ... ok
+test_invalid_rotations_and_invariant (test_trees.AvlTests.test_invalid_rotations_and_invariant) ... ok
+test_random_versions_and_sharing (test_trees.AvlTests.test_random_versions_and_sharing) ... ok
+test_delete_leaf_single_child_two_children_and_root (test_trees.BstTests.test_delete_leaf_single_child_two_children_and_root) ... ok
+test_duplicates_and_absent_delete_preserve_identity (test_trees.BstTests.test_duplicates_and_absent_delete_preserve_identity) ... ok
+test_from_sorted_and_balance (test_trees.BstTests.test_from_sorted_and_balance) ... ok
+test_frozen_and_input_unchanged (test_trees.BstTests.test_frozen_and_input_unchanged) ... ok
+test_iterative_depth_1000_and_invalid_tree (test_trees.BstTests.test_iterative_depth_1000_and_invalid_tree) ... ok
+test_random_insert_delete_against_set (test_trees.BstTests.test_random_insert_delete_against_set) ... ok
+test_range_and_kth (test_trees.BstTests.test_range_and_kth) ... ok
+test_traversals (test_trees.BstTests.test_traversals) ... ok
+test_versions_and_sharing (test_trees.BstTests.test_versions_and_sharing) ... ok
+test_empty_and_immutability (test_trees.FileSystemTests.test_empty_and_immutability) ... ok
+test_largest (test_trees.FileSystemTests.test_largest) ... ok
+test_size_and_paths (test_trees.FileSystemTests.test_size_and_paths) ... ok
+test_text_and_extensions (test_trees.FileSystemTests.test_text_and_extensions) ... ok
+test_ancestors_and_generations (test_trees.GenealogyTests.test_ancestors_and_generations) ... ok
+test_common_ancestor_ties_self_and_absent (test_trees.GenealogyTests.test_common_ancestor_ties_self_and_absent) ... ok
+test_descendants_distinct (test_trees.GenealogyTests.test_descendants_distinct) ... ok
+test_shortest_generation_and_unchanged (test_trees.GenealogyTests.test_shortest_generation_and_unchanged) ... ok
+test_unknown_and_invalid_graphs (test_trees.GenealogyTests.test_unknown_and_invalid_graphs) ... ok
+
+----------------------------------------------------------------------
+Ran 74 tests in 0.824s
+
+OK
