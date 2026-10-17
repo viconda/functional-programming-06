@@ -1,0 +1,27 @@
+{
+  "university": "Satbayev University",
+  "department": {
+    "name": "Программная инженерия",
+    "staff": [
+      {
+        "name": "Алия",
+        "age": 31,
+        "active": true,
+        "projects": [
+          {
+            "title": "Рекурсия",
+            "metrics": {"hours": [4, 6, 8], "rating": 4.5}
+          }
+        ]
+      },
+      {
+        "name": "Данияр",
+        "age": 28,
+        "active": false,
+        "projects": []
+      }
+    ],
+    "room": null
+  },
+  "semester": 6
+}
